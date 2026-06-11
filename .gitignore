@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node (if any tooling is added later)
+node_modules/
+
+# Windows
+desktop.ini
